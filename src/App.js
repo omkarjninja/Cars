@@ -67,7 +67,7 @@ function App() {
     <Router>
     <Routes>
     <Route path='/' element={<Loading />} exact />
-    <Route path="/Home" element={<Full></Full>} />
+    <Route path="/home" element={<Full></Full>} />
     <Route path="/blogs" element={<MainBlog></MainBlog>} />
     <Route path="/blogs/1" 
       element={<BlogPage

@@ -4,7 +4,7 @@ import { useEffect, } from "react";
 function Loading(){
     useEffect(() => {
         setTimeout(() => {
-          window.location.href="/event"
+          window.location.href="/home"
         }, 9500)
       }, [])
     return(

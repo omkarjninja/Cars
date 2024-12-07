@@ -52,7 +52,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center mt-6">
                     <p className="text-base leading-4 text-gray-800">
-                        2023 <span className="font-semibold">OmkarJadhav</span>
+                        2024 <span className="font-semibold">OmkarJadhav</span>
                     </p>
                     <div className="border-l border-gray-800 pl-2 ml-2">
                         <p className="text-base leading-4 text-gray-800">Inc. All rights reserved</p>
